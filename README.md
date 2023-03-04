@@ -1,5 +1,7 @@
 # Navie_Bayes_Model
 
+[![Security Status](https://s.murphysec.com/badge/TheThirdSanta/Navie_Bayes_Model.svg)](https://www.murphysec.com/p/TheThirdSanta/Navie_Bayes_Model)
+
 朴素贝叶斯分类器实现对于图像的分类功能
 
 同时针对最新的sklearn的代码import进行了优化，解决了以前代码引用库出错的问题
